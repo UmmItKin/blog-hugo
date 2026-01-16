@@ -1,7 +1,7 @@
 > [!NOTE]
 > The blog will soon close and be replaced by my new theme use Astro to write, which I created. Please check it out at this :D
 >
-> https://github.com/UmmItC/Purple
+> https://ummit.dev
 
 # Blog Server
 
